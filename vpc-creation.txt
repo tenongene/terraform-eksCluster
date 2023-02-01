@@ -1,0 +1,2 @@
+VPC created on Tue Jan 31 01:45:10 CST 2023 and VPC ID is: vpc-0e0814db5cfca7073
+VPC created on Tue Jan 31 21:31:05 CST 2023 and VPC ID is: vpc-089c5fc402803569b
